@@ -1,0 +1,11 @@
+# Robots.txt for ai-agency-landing-page
+# Allow all crawlers access to all content
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://automatic-three.vercel.app/sitemap.xml
+
+# Crawl-delay for polite crawling (optional)
+Crawl-delay: 1
